@@ -36,7 +36,7 @@ An example for edges in the region of interest.
 Then to find the lane lines from Canny edges, a Hough transform (Paul Hough, 1962) is applied on the final image. `HoughLinesP` method of openCV is used for this transformation. After the Hough transformation, The raw data of lines indicating where the lane lines exist on the road is obtained. Then, `draw_lines` function is used to mark these lines in red color on the original images. A low opacity value on the original image is also used to highlight the markings.
 
 An example for the final image with lane lines marked.
-![An example of a Hugh transform](/test_images_output/solidWhiteCurve.jpg)
+![An example of a Hugh transform](/test_images_output/solidWhiteCurve_raw.jpg)
 
 
 ## 2. Extention to Detecting and Marking Lane Lines
