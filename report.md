@@ -73,10 +73,13 @@ Another improvement would be to use a color selection. Selecting only the white 
 Following the steps of the pipeline mentioned above, results are examined on several different video streams of roads with different lane line types. These types consists of lines with different colors: yellow and white. And, in addition, a challange video stream with reflections and shadows on the road is also examined. As a result, with the improvement of a clean-out method, lane line predictions were stable. But, possible improvements are still needed for the challenge video stream.
 
 Solid white lane line video stream.
+
 [![Solid white line](test_videos_output/solidwhite.gif?raw=true)](https://youtu.be/1eIg3_gjjr8)
 
 Solid yellow lane line video stream.
+
 [![Solid yellow line](test_videos_output/solidyellow.gif?raw=true)](https://youtu.be/TybEEiCNZ8E)
 
 The challenge video stream.
+
 [![Challenge](test_videos_output/challenge.gif?raw=true)](https://youtu.be/lpxl0whQdKI)
