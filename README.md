@@ -4,4 +4,4 @@ The goal of this project is making a pipeline to detect the lane lines on the ro
 
 Please see the [report](report.md) for details of the pipeline and the results.
 
-[![Solid yellow line](/CarND-LaneLines-P1/test_videos_output/solidyellow.gif?raw=true)](https://youtu.be/TybEEiCNZ8E)
+[![Solid yellow line](test_videos_output/solidyellow.gif?raw=true)](https://youtu.be/TybEEiCNZ8E)
